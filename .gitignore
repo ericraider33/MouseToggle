@@ -1,0 +1,7 @@
+# VS Directories
+bin
+obj
+
+# VS Helper files
+*.suo
+*.user
